@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>🎉 NumJig Puzzle Game - Official Release 🎉</title>
   
   <!-- Standard Meta Description -->
   <meta name="description" content="NumJig Puzzle Game is a classic sliding puzzle where you arrange a 3x3 number grid into the correct order. Enjoy intuitive controls, randomized puzzles, and smooth gameplay!">
@@ -22,7 +21,7 @@
   <meta name="twitter:image" content="https://example.com/path-to-your-image.png">
 </head>
 <body>
-  <h1>🎉 NumJig Puzzle Game - Official Release 🎉</h1>
+  <h1>🎉 NumJig Puzzle Game 🎉</h1>
   <p>
     This game is a classic sliding puzzle where players must arrange a <strong>3x3 number grid</strong> into the correct order by moving the tiles strategically. It’s a fun and challenging way to test your problem-solving skills!
   </p>
