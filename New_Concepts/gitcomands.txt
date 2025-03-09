@@ -1,8 +1,10 @@
 git config --global user.name "Name"                          // editor name 
 git config --global user.email "@gmail.com          // linked email
 git config --list                                                    // editor credentials
-git clone [LINK]                                                     // cloning the file with github 
-list -a OR Get-ChildItem -Force                                      // discover hidden file and folders
+git clone [LINK]                                                     // cloning the file with github
+git remote add upstream https://github.com/ORIGINAL_OWNER/REPO_NAME.git               //  keep your fork up to date with the original repository. Add the upstream repo:
+git remote -v                                            // Verify it with:
+list -a OR Get-ChildItem -Force                          // discover hidden file and folders
 git status // show the status of new codes
 git add <-file name ->
 git commit -m "message"
