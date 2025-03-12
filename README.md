@@ -21,7 +21,7 @@
   <meta name="twitter:image" content="https://example.com/path-to-your-image.png">
 </head>
 <body>
-  <h1>🎉 NumJig Puzzle Game 🎉</h1>
+  <h1>🎉 NumJig Puzzle Game - DSA 🎉</h1>
   <p>
     This game is a classic sliding puzzle where players must arrange a <strong>3x3 number grid</strong> into the correct order by moving the tiles strategically. It’s a fun and challenging way to test your problem-solving skills!
   </p>
